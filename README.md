@@ -1,4 +1,4 @@
-# Production Journal — [ชื่อ-นามสกุล]
+# Production Journal — [พชรปกรณ์ หน่อหล้า]
 
 รายวิชา: Digital Game Production Management
 วันที่เริ่มต้น: [`6/23/2026`]
