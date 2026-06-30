@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\patcharapakornn\\Downloads\\.vscode\\src\\MyNewGame\\MyNewGame.csproj": {}
+    "C:\\Users\\patcharapakornn\\Documents\\dg225_682110131\\.vscode\\src\\MyNewGame\\MyNewGame.csproj": {}
   },
   "projects": {
-    "C:\\Users\\patcharapakornn\\Downloads\\.vscode\\src\\MyNewGame\\MyNewGame.csproj": {
+    "C:\\Users\\patcharapakornn\\Documents\\dg225_682110131\\.vscode\\src\\MyNewGame\\MyNewGame.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\patcharapakornn\\Downloads\\.vscode\\src\\MyNewGame\\MyNewGame.csproj",
+        "projectUniqueName": "C:\\Users\\patcharapakornn\\Documents\\dg225_682110131\\.vscode\\src\\MyNewGame\\MyNewGame.csproj",
         "projectName": "MyNewGame",
-        "projectPath": "C:\\Users\\patcharapakornn\\Downloads\\.vscode\\src\\MyNewGame\\MyNewGame.csproj",
+        "projectPath": "C:\\Users\\patcharapakornn\\Documents\\dg225_682110131\\.vscode\\src\\MyNewGame\\MyNewGame.csproj",
         "packagesPath": "C:\\Users\\patcharapakornn\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\patcharapakornn\\Downloads\\.vscode\\src\\MyNewGame\\obj\\",
+        "outputPath": "C:\\Users\\patcharapakornn\\Documents\\dg225_682110131\\.vscode\\src\\MyNewGame\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages",
@@ -19,12 +19,15 @@
         ],
         "configFilePaths": [
           "C:\\Users\\patcharapakornn\\AppData\\Roaming\\NuGet\\NuGet.Config",
-          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config"
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
           "net9.0"
         ],
         "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "C:\\Program Files\\dotnet\\library-packs": {},
           "https://api.nuget.org/v3/index.json": {}
         },
         "frameworks": {
